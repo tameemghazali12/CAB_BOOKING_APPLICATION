@@ -1,0 +1,23 @@
+
+Install packages (1st time)
+step1 : open visual studio code
+step2 : upload ur project on vscode
+step3 : open terminal ---> Select command prompt
+step4 : Set the project path
+c:\> pip install virtualenvwrapper-win
+c:\> mkvirtualenv cab
+(cab) python manage.py runserver
+
+
+
+
+
+
+
+In pycharm
+cd cab_booking_application
+cd cab_booking
+cd cab
+scripts/activate
+cd ..
+python manage.py runserver
