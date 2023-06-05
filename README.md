@@ -39,3 +39,25 @@
 * SQL injection protection
 
 ###### These security features are already provided by Django, so that makes a website safe from the most common vulnerabilities.
+
+## SCREENSHOTS
+
+![sign up page](https://github.com/tameemghazali12/CAB_BOOKING_APPLICATION/assets/125582182/a6c70c29-372f-4f93-8694-08482981725c)
+SIGN UP PAGE
+
+![login page](https://github.com/tameemghazali12/CAB_BOOKING_APPLICATION/assets/125582182/553af4c1-0a4b-4779-a1ae-f4eb20ce7d2e)
+LOGIN PAGE
+
+![travelling details](https://github.com/tameemghazali12/CAB_BOOKING_APPLICATION/assets/125582182/569d1d6a-1451-4292-9dd5-54473f22e325)
+TRAVELLER'S DETAILS
+
+![drivers details](https://github.com/tameemghazali12/CAB_BOOKING_APPLICATION/assets/125582182/5fbbd133-0637-4e59-b47a-85f93a0cd64b)
+DRIVER'S DETAILS
+
+![payment details](https://github.com/tameemghazali12/CAB_BOOKING_APPLICATION/assets/125582182/ad4d99b9-8249-4db7-8d7a-83fcbc0fa50a)
+PAYMENT DETAILS
+
+![payment page](https://github.com/tameemghazali12/CAB_BOOKING_APPLICATION/assets/125582182/05dd556a-c290-4fde-8e72-6c049bf414ac)
+PAYMENT PAGE
+
+
